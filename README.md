@@ -45,4 +45,4 @@ In the future, the following improvements can be made to increase model performa
 # Links
 
 - [Kaggle - NYC Property Sales Dataset](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
-- [Code (Kaggle)](https://www.kaggle.com/code/u287ur/nyc-property-sales-price-prediction)
+- [Kaggle Notebook](https://www.kaggle.com/code/u287ur/nyc-property-sales-price-prediction)

@@ -45,4 +45,4 @@ Gelecekte, modelin başarısını artırmak için aşağıdaki geliştirmeler ya
 # Linkler
 
 - [Kaggle - NYC Property Sales Veri Seti](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
-- [Kodlar (Kaggle)](https://www.kaggle.com/code/u287ur/nyc-property-sales-price-prediction)
+- [Kaggle Notebook](https://www.kaggle.com/code/u287ur/nyc-property-sales-price-prediction)
